@@ -1,1 +1,0 @@
-# gagoar-invoke-aws-lambda
