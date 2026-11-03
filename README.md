@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v3.4.0 | [`v3.4.0`](https://github.com/chainguard-actions/gagoar-invoke-aws-lambda/tree/v3.4.0) | [`2ea0b57`](https://github.com/gagoar/invoke-aws-lambda/commit/2ea0b5791eba7a9513ddf0fb7f91aa8f098b6458) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v3.4.0 | [`v3.4.0`](https://github.com/chainguard-actions/gagoar-invoke-aws-lambda/tree/v3.4.0) | [`2ea0b57`](https://github.com/gagoar/invoke-aws-lambda/commit/2ea0b5791eba7a9513ddf0fb7f91aa8f098b6458) | [`HARDENING.md`](https://github.com/chainguard-actions/gagoar-invoke-aws-lambda/blob/v3.4.0/HARDENING.md) |
 
 ## Privacy
 
